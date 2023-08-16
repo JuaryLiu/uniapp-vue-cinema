@@ -3,5 +3,6 @@
 
 # 接口文档
 [接口链接](http://192.168.1.14:10393/shareDoc?issue=0b67c5a1cbd398670f663172f7855bb5)  密码：773265
-##[md文件的文档](https://github.com/JuaryLiu/uniapp-vue-cinema/blob/main/ApiCinema.md)
+
+[md文件的文档](https://github.com/JuaryLiu/uniapp-vue-cinema/blob/main/ApiCinema.md)
 # 给新人小白一点支持0.0
